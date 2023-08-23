@@ -29,7 +29,7 @@ The 3rd application makes the model particularly useful in queues at airports, b
 Since in a we need to detect every 5-10 seconds, we can use the 3rd mode with great efficiency.
 
 ## Dataset
-The dataset used can be downloaded here - [Link to Google Drive](https://drive.google.com/drive/folders/1-K-RnVyz7HSJbcbXqxf5kFdzU45-RMl7?usp=share_link)
+The dataset used can be downloaded here - [Link to Google Drive](https://drive.google.com/drive/folders/1b0seKKBPSoYSmsPet5cGSTfSgh9j8BBd?usp=sharing)
 
 This dataset consists of __4000 images__ belonging to two classes:
 *	__with_mask: 2000 images__
@@ -49,7 +49,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ## Execution
 1. Clone the repo
 ```
-$ git clone https://github.com/techyhoney/Facemask_Detection.git
+$ git clone https://github.com/Akshay-Sisodia/Face-Mask-Detection.git
 ```
 
 2. Change your directory to the cloned repo 
@@ -90,7 +90,7 @@ $ pip3 install -r requirements.txt
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/techyhoney/Facemask_Detection/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Akshay-Sisodia/Face-Mask-Detection/issues)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Akshay-Sisodia/Face-Mask-Detection/blob/main/LICENSE)
 
 
