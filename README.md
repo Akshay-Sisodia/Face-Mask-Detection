@@ -91,9 +91,9 @@ $ pip3 install -r requirements.txt
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/techyhoney/Facemask_Detection/issues)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/techyhoney/Facemask_Detection/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Akshay-Sisodia/Face-Mask-Detection/blob/main/LICENSE)
 
 
 
 ## License
-[MIT](https://github.com/techyhoney/Facemask_Detection/blob/master/LICENSE)
+[MIT](https://github.com/Akshay-Sisodia/Face-Mask-Detection/blob/main/LICENSE)
